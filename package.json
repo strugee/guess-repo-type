@@ -1,0 +1,23 @@
+{
+  "name": "guess-repo-type",
+  "version": "0.1.0",
+  "description": "Guess the VCS managing a local repo"
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/strugee/guess-repo-type.git"
+  },
+  "keywords": [
+    "git",
+    "hg",
+    "repo"
+  ],
+  "author": "Alex Jordan <alex@strugee.net>",
+  "license": "LGPL-3.0+",
+  "bugs": {
+    "url": "https://github.com/strugee/guess-repo-type/issues"
+  }
+}
