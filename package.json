@@ -1,6 +1,6 @@
 {
   "name": "guess-repo-type",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Guess the VCS managing a local repo",
   "main": "index.js",
   "scripts": {
